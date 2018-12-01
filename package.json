@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "debug": "^4.1.0",
     "express": "^4.14.0",
     "fresh": "^0.5.2",
     "hbs": "^4.0.0",
